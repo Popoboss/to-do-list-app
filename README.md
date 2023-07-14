@@ -1,8 +1,9 @@
 To-Do List App
-Description
+
+Description:
 To-Do List App is a simple web application that allows users to manage their daily tasks and stay organized. It provides an intuitive interface for creating, updating, and completing to-do items.
 
-Features
+Features:
 Create new to-do items
 Update existing to-do items
 Mark to-do items as completed
